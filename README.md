@@ -1,7 +1,11 @@
 👋 Hi, I’m @RamTati29.
+
 👀 I’m interested in Android development, web development, and cloud computing.
+
 🌱 I’m currently pursuing B.Tech in Artificial Intelligence and Data Science at VIIT, Pune.
+
 💞️ I’m looking to collaborate on exciting projects related to Android, web development, or cloud technologies.
+
 📫 How to reach me: Email me at ramakanttati29@gmail.com.
 
 <!---
